@@ -1,0 +1,22 @@
+{
+  "name": "groupme-desktop",
+  "version": "1.1.0",
+  "description": "GroupMe Desktop client",
+  "main": "none",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidcorbin/GroupMe-Desktop.git"
+  },
+  "author": "David Corbin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidcorbin/GroupMe-Desktop/issues"
+  },
+  "homepage": "https://github.com/davidcorbin/GroupMe-Desktop#readme",
+  "dependencies": {
+    "appdmg": "^0.5.2"
+  }
+}
